@@ -1,0 +1,62 @@
+{
+    "123": {
+        "name": "laptop",
+        "price": 34556.0,
+        "quantity": 4,
+        "low_limit": 1
+    },
+    "1234": {
+        "name": "laptop",
+        "price": 2.0,
+        "quantity": 9,
+        "low_limit": 1
+    },
+    "345": {
+        "name": "tv",
+        "price": 4566.0,
+        "quantity": 3,
+        "low_limit": 1
+    },
+    "777": {
+        "name": "ac",
+        "price": 322222.0,
+        "quantity": 9,
+        "low_limit": 1
+    },
+    "23": {
+        "name": "mobile",
+        "price": 35000.0,
+        "quantity": 4,
+        "low_limit": 2
+    },
+    "8899": {
+        "name": "fridge",
+        "price": 877768.0,
+        "quantity": 8,
+        "low_limit": 2
+    },
+    "099": {
+        "name": "cooler",
+        "price": 78889.0,
+        "quantity": 6,
+        "low_limit": 8
+    },
+    "98766": {
+        "name": "washine machine",
+        "price": 50000.0,
+        "quantity": 6,
+        "low_limit": 1
+    },
+    "5554": {
+        "name": "fan",
+        "price": 1500.0,
+        "quantity": 8,
+        "low_limit": 2
+    },
+    "3333": {
+        "name": "light",
+        "price": 100.0,
+        "quantity": 7,
+        "low_limit": 2
+    }
+}
